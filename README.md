@@ -1,0 +1,2 @@
+# GlobalAIHubPythonCourse
+eren aykan acar
